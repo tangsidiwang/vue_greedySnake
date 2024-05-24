@@ -1,5 +1,5 @@
 # snakes
-
+我是傻逼
 ## Project setup
 ```
 yarn install
